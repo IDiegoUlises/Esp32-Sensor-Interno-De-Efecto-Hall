@@ -11,4 +11,5 @@ void loop() {
   delay(25);
 }
 
-el sensor de efecto hall detecta los campos magneticos y la posicion de ellos
+el sensor de efecto hall detecta los campos magneticos y la posicion de ellos.
+Los autos utilizan el sensor de efecto hall para detectar que el cinturon este puesto en el vehiculo
