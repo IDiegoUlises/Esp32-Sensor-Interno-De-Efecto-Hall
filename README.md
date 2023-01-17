@@ -10,3 +10,5 @@ void loop() {
   Serial.println("-250," + String(hallRead()) + ",250");
   delay(25);
 }
+
+el sensor de efecto hall detecta los campos magneticos y la posicion de ellos
