@@ -31,4 +31,4 @@ void loop()
 * Al acercar un objeto con un campo magnetico el sensor lo detecta
 
 ### Debug
-<img src="https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Puerto-Serial.png />
+<img src="https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Puerto-Serial.png" />
