@@ -2,7 +2,7 @@
 
 ### Funcionamiento
 ![](https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Esp32-Sensor-Hall-Interno.gif)
-* Al acercar un objeto con un campo magnetico el sensor lo detecta
+* Al acercar un objeto magnetico el sensor detectara el campo magnetico
 
 ### Codigo
 ```c++
