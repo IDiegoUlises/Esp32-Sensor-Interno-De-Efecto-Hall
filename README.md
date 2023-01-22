@@ -24,5 +24,6 @@ void loop()
   //Retardo para no llenar la pantalla
   delay(500);
 }
-
 ```
+
+![](https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Esp32-Sensor-Hall-Interno.gif)
