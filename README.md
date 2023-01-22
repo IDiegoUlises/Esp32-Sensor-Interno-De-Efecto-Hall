@@ -1,5 +1,9 @@
 # Esp32 Sensor Interno De Efecto Hall
 
+### Funcionamiento
+![](https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Esp32-Sensor-Hall-Interno.gif)
+* Al acercar un objeto con un campo magnetico el sensor lo detecta
+
 ### Codigo
 ```c++
 #include <driver/adc.h>
@@ -25,10 +29,6 @@ void loop()
   delay(500);
 }
 ```
-
-### Funcionamiento
-![](https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Esp32-Sensor-Hall-Interno.gif)
-* Al acercar un objeto con un campo magnetico el sensor lo detecta
 
 ### Debug
 <img src="https://github.com/IDiegoUlises/Esp32-Sensor-Interno-De-Efecto-Hall/blob/main/Images/Puerto-Serial.png" />
