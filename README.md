@@ -1,5 +1,6 @@
 # Esp32 Sensor Interno De Efecto Hall
 
+### Codigo
 ```c++
 #include <driver/adc.h>
 
