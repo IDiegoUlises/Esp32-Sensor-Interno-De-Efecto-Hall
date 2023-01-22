@@ -1,4 +1,4 @@
-# Esp32-Sensor-Interno-De-Efecto-Hall
+# Esp32 Sensor Interno De Efecto Hall
 
 ```c++
 #include <driver/adc.h>
